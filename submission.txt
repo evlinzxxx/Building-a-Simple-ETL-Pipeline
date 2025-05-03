@@ -1,0 +1,13 @@
+Cara Menjalankan ETL Pipeline
+
+# Menjalankan skrip
+python main.py
+
+# Menjalankan unit test pada folder tests
+python -m pytest tests
+
+# Menjalankan test coverage pada folder tests
+coverage run -m pytest tests
+
+# Url Google Sheets:
+https://docs.google.com/spreadsheets/d/1kzNLvnIMcF9y96q9-qsRf_o_3XanUtg_fxGgRT5M-Qs
