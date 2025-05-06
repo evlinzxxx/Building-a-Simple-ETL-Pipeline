@@ -10,4 +10,4 @@ python -m pytest tests
 coverage run -m pytest tests
 
 # Url Google Sheets:
-https://docs.google.com/spreadsheets/d/1kzNLvnIMcF9y96q9-qsRf_o_3XanUtg_fxGgRT5M-Qs
+https://docs.google.com/spreadsheets/d/1kzNLvnIMcF9y96q9-qsRf_o_3XanUtg_fxGgRT5M-Qs/edit?usp=sharing
